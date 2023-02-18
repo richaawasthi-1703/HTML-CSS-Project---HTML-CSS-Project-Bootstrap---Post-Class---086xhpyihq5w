@@ -3,7 +3,7 @@
     font-family: 'Labrada', serif;
   }
   body{
-    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)) ,url(/images/p.webp);
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)) ,url(p.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
